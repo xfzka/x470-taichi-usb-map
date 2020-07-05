@@ -16,5 +16,12 @@ Recommended plug in to PTXH directly。
 
 ### 原图(Origin image)：
 
-![USB-portmap](X470-Taichi.png)
+![X470-Taichi](X470-Taichi.png)
 
+## 其它端口(Other port)：
+
+我的主板上的其它端口：
+
+My motherboard other port:
+
+![Other port](X470-Taichi(L2).png)
